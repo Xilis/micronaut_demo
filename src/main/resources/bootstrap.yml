@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: micronaut_demo
+  config-client:
+    enabled: true
